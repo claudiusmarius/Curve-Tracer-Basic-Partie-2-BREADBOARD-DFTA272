@@ -1,6 +1,9 @@
 # Curve-Tracer-Basic-Partie-2-BREADBOARD-DFTA272
 Essais de validation sur breadboard
 
+Vidéo YouTube : https://youtu.be/kdf7P1Am4o0
+ 
+
 Cette étape du projet valide en conditions réelles le fonctionnement du traceur de courbes pour transistors NPN après la phase de simulation présentée dans DFTA271.
 
 Objectif
