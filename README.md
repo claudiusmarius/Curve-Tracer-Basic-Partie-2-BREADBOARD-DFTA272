@@ -9,22 +9,11 @@ Tracer sur oscilloscope analogique en mode XY :
 
 IC=f(VCE)
 
-
-
-
 pour différentes valeurs de courant de base.
 
 Une future évolution pourrait également permettre :
 
-I
-C
-	​
-
-=f(I
-B
-	​
-
-)
+IC=f(IB)
 
 avec tension VCE réglable manuellement.
 
