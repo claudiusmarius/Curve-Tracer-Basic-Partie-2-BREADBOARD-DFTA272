@@ -7,15 +7,10 @@ Objectif
 
 Tracer sur oscilloscope analogique en mode XY :
 
-I
-C
-	​
+IC=f(VCE)
 
-=f(V
-CE
-	​
 
-)
+
 
 pour différentes valeurs de courant de base.
 
